@@ -29,6 +29,6 @@ def rmdir(nm):
         os.removedirs(nm)
         return
 
-cp("testfile1.txt", "1.txt")
-rn("1.txt", "t1.txt")
+#cp("testfile1.txt", "1.txt")
+#rn("1.txt", "t1.txt")
 
